@@ -31,6 +31,16 @@
 + get a sense of it: 了解
 + similar: 类似的
 + internal tracker: 内部更踪器
++ guarantees: 保证
++ constantly: 不断地，持续的
++ obvious: 显然的
++ explicitly: 明确的、明白的
++ entire: 全部的
++ triggered periodically: 定期触发
++ disaster occurs: 灾难出现
++ approach: 方法
++ dig deep into:
++ 
 
 ## phrase
 + This when such "slow down" techniques as "throttle" and "debounce" come in handy
