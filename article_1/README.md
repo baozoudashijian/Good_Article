@@ -39,8 +39,17 @@
 + triggered periodically: 定期触发
 + disaster occurs: 灾难出现
 + approach: 方法
-+ dig deep into:
-+ 
++ dig deep into: 深入挖掘
++ first of all: 首先
++ take a closer look at: 仔细看看
++ from now forward: 从现在开始
++ concept described: 描述的概念
++ be relevant for: 与...相关
++ as well: 也
++ at some point: 在某个时刻
++ external: 外部
++ for simplicity: 为了简单起见
++ via: 通过
 
 ## phrase
 + This when such "slow down" techniques as "throttle" and "debounce" come in handy
@@ -51,3 +60,5 @@
 + send the entire value in one go: 一次性发送整个值
 + it will detect every attempt I make to call it: 它会检测到我试图调用它的每一次尝试
 + losts of code involving the actual implementation of timer: 大量代码涉及计时器的实现
++ what I'm trying to say here: 我想说的是
++ I added
