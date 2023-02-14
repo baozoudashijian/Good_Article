@@ -7,3 +7,7 @@
 ## article_2
 + title: esbuild
 + url: https://esbuild.github.io/getting-started/#your-first-bundle
+
+## article_3
++ title: Pinia
++ url: https://pinia.vuejs.org/introduction.html
