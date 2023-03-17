@@ -11,6 +11,12 @@
 + as well as: 以及
 + convention: 惯例
 + destructure: 结构
++ plain: 朴素的，普通的
++ compatible: 兼容
++ infer: 推断
++ casting: 给出类型
++ exactly: 完全
++ the equivalent of: 相当于
 
 ## phrase
 + the initial principles: 最初原则
